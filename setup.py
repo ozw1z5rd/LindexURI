@@ -2,7 +2,7 @@ import setuptools
 with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
-     name='LindexURI',  
+     name='LindexURI',
      version='0.1.2',
      packages=['LindexURI'] ,
      author="Alessio Palma",
