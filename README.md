@@ -1,6 +1,12 @@
 # LindexURI
 BigData URI utility
 
+How install: 
+
+pip install LindexURI
+
+https://pypi.org/project/LindexURI/0.1.2/ 
+
 The idea is that every information stored is addressable using a URI, in this case we like to work with HDFS and HIVE. There
 
 LindexURI.isValid( uri ) : returns true if the URI is valid, it's a static method and can be used in a quick way.
